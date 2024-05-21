@@ -1,0 +1,15 @@
+﻿生成启动时间为 2024/5/7 20:20:15。
+     1>项目“L:\我的低成本\kmboxdll\kmboxdll\kmboxdll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\kmboxdll.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D KMBOXDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\kmboxdll.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt hid.c
+         hid.c
+     1>l:\我的低成本\kmboxdll\kmboxdll\hid.c : fatal error C1853: “Debug\kmboxdll.pch”预编译头文件来自编译器的早期版本，或者预编译头为 C++ 而在 C 中使用它(或相反)
+     1>已完成生成项目“L:\我的低成本\kmboxdll\kmboxdll\kmboxdll.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18
